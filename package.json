@@ -1,6 +1,6 @@
 {
     "name": "Cielo",
-    "description": "A Node-RED Project",
+    "description": "Cielo_NodeRed",
     "version": "0.0.1",
     "dependencies": {
         "node-red-contrib-home-assistant-websocket": "0.59.0"
